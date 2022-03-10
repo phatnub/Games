@@ -8,6 +8,16 @@ input {
   min-width: 34%;
 
 }
+.inputFront{
+  font-size: 14px;
+  font-family: 'source Sance Pro', sans-serif;
+  border: 1px solid lightskyblue;
+  border-radius: 5px;
+  padding: 0.5%;
+  background-color: lightskyblue;
+  color: white;
+  margin: 2%;
+}
 
 button{
   font-size: 14px;
