@@ -18,6 +18,13 @@ input {
   color: white;
   margin: 2%;
 }
+.inputFront:hover{
+  color: black;
+  cursor: pointer;
+}
+.inputFront:active {
+  transform: translateY(4px);
+}
 
 button{
   font-size: 14px;
